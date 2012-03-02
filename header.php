@@ -48,7 +48,7 @@
                     <li><a href="charles/">charles</a></li>
                     <li><a href="james/">james</a></li>
                     <li><a href="erin/">erin</a></li>
-                    <li><a href="mif/">mos</a></li>
+                    <li><a href="mos/">mos</a></li>
                 </ul>
             </div>
         </div>
