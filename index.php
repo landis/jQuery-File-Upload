@@ -4,7 +4,7 @@ include('header.php');
 
 include('navbar.php');
 
-include('loader.php');
+include('body.php');
 
 include('footer.php');
 

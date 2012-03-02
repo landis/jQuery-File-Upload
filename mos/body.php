@@ -8,3 +8,4 @@
 	<blockquote>Sup...</blockquote>
 	
 	<h3>You're going to be missed man</h3>
+</div>

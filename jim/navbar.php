@@ -6,7 +6,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </a>
-            <a class="brand" href="http://ikon.org">IRIS Team</a>
+            <a class="brand" href="/bm">IRIS Team</a>
             <div class="nav-collapse">
                 <ul class="nav">
                     <li><a href="../">Info</a></li>

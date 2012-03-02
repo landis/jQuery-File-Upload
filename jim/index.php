@@ -6,4 +6,6 @@ include('navbar.php');
 
 include('body.php');
 
+include('loader.php');
+
 ?>
