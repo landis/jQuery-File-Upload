@@ -13,3 +13,13 @@
 body{
   padding-top: 60px;
 }
+
+.pic {
+  width: 846px;
+  height: 570px;
+}
+
+.aka {
+  padding-top: 5px;
+  font-style: italic;
+}
